@@ -32,6 +32,14 @@
 body {
   @apply bg-blue-200;
 }
+
+/* ERROR */
+.standard-error {
+  color: var(--color-red-450);
+  font-size: 12px;
+  font-weight: 600;
+}
+
 /* TEXT PRESET 1 */
 
 .title-lg {
